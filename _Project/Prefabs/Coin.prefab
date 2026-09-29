@@ -142,3 +142,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinCollecter
   amount: 1
+  coinSound: {fileID: 8300000, guid: 6885113907ccbc94f8ebe61f7d310f28, type: 3}
